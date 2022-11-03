@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    display: block;
+    background-color:sandybrown;
+    color: darkred;
+}
+
+li {
+    margin: 15px;
+}
+
+a:hover {
+    background-color: black;
+    color:white;
+}

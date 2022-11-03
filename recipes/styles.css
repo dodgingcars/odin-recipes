@@ -1,0 +1,24 @@
+body {
+    max-width: 800px;
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    color:chocolate;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
